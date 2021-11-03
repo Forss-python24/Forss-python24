@@ -1,1 +1,1 @@
-web: gunicorn app:Messenger_appV1
+web: gunicorn app:app
